@@ -1,3 +1,4 @@
+#urls goes here
 from django.conf.urls import patterns, include, url
 
 from restapp import views

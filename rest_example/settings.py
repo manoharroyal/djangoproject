@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     'restapp',
 )
 
+
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
